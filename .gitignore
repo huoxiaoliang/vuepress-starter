@@ -1,0 +1,8 @@
+.vscode/
+.temp/
+node_modules/
+Documentation/
+types/
+dist/
+libs/
+yarn.lock
